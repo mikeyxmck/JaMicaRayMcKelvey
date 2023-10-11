@@ -1,6 +1,4 @@
-<h1>Hi, I'm JaMica, an <a href="www.linkedin.com/in/jamica-mckelvey-359588245
-
-">IT Professional</a>☺</h1>
+<h1>Hi, I'm JaMica, an <a href="www.linkedin.com/in/jamica-mckelvey-359588245">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
