@@ -8,6 +8,6 @@
     
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mikeyxmck/ConfigActiveDirect-Azure-)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jmikeyxmck/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mikeyxmck/NSG-Inpections-Azure-)
 
 <h2>Thank you for checking out my projects!</h2>
